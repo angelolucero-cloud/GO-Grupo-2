@@ -1,0 +1,12 @@
+﻿Comprobacion,Cumple
+Una fila por SKU y cobertura completa,True
+Cantidades brutas iguales al plan base,True
+Líneas asignadas según el maestro,True
+Producción vendible cubre compromisos de semana 12,True
+Carga de L1 coincide con el modelo,True
+Capacidad de L1 respetada,True
+Carga de L2 coincide con el modelo,True
+Capacidad de L2 respetada,True
+Disponibilidad y balance de jarabe de CIT,True
+Disponibilidad y balance de jarabe de FUN,True
+Disponibilidad y balance de jarabe de NEC,True

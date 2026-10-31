@@ -1,0 +1,17 @@
+{
+  "semana_focal": 12,
+  "fecha_inicio": "2026-12-14",
+  "plan_origen": "MIP base verificado",
+  "costo_plan_base_CLP": 982608234.864993,
+  "sha256_solucion_base": "28dc36370d44299cd257c76b00ad00f0a90f375b04f27da10f44e8dc49eb5ce0",
+  "cantidad_sku_con_produccion": 9,
+  "cantidades": "Cajas continuas sin redondeo a enteros",
+  "produccion_bruta": "Antes de descontar merma",
+  "produccion_vendible": "Produccion bruta multiplicada por rendimiento",
+  "preparacion_envasado": {
+    "L1_h_por_sku_activo": 1.9,
+    "L2_h_por_sku_activo": 2.5,
+    "L2_desglose": "1.9 h CIP mas 0.6 h de provision por formato"
+  },
+  "alcance": "Planificacion semanal verificada; secuenciacion y horarios pendientes de validacion"
+}

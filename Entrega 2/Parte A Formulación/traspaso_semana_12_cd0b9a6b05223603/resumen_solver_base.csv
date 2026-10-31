@@ -1,0 +1,2 @@
+﻿Solver,Versión_PuLP,Conclusión,Costo_plan_CLP,Objetivo_registro_CLP,Cota_inferior_CLP,Brecha_porcentaje_sobre_cota,Tiempo_transcurrido_s
+CBC,2.9.0,Solución encontrada; límite de tiempo; optimalidad no demostrada,982608234.86499238,982608237.00177109,977347239.21700001,0.53829361496799477,120.13501555599998
