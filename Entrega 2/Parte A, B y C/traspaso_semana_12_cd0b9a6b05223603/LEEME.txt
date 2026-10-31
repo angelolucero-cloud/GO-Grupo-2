@@ -1,0 +1,27 @@
+TRASPASO DE ENTREGA 2 A ENTREGA FINAL
+
+Archivo principal: programa_semana_12.csv.
+
+Conservar las cantidades brutas y vendibles, las lineas asignadas
+y las horas de preparacion supuestas. Los tiempos son provisiones
+tacticas; no representan una secuencia detallada de limpiezas.
+
+La tabla esta ordenada por linea y SKU para facilitar su lectura.
+Ese orden NO es una secuencia de fabricacion recomendada.
+
+Consultar resumen_solver_base.csv para conocer el estado,
+la cota y la brecha de la solucion de origen.
+
+La disponibilidad de jarabe al inicio de semana 12 incluye
+inventario de cierre de semana 11 y preparacion de semana 11.
+El jarabe preparado en semana 12 queda disponible desde semana 13.
+
+Los compromisos conservan el detalle original de las ordenes.
+El plan semanal no demuestra cumplimiento de sus horarios.
+
+No redondear cantidades a cajas enteras sin revisar factibilidad.
+Cualquier revision posterior debe conservarse como otra version,
+para poder comparar el plan tactico con el programa detallado.
+
+La exportacion se genera al ejecutar el notebook. Para conservar
+este paquete fuera de la sesion, descargarlo y subirlo al repositorio.
